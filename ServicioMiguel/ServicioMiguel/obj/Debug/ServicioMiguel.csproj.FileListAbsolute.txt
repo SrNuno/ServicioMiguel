@@ -1,0 +1,11 @@
+C:\Users\Nuno\Desktop\MiServicio\ServicioMiguel\ServicioMiguel\bin\Debug\ServicioMiguel.exe.config
+C:\Users\Nuno\Desktop\MiServicio\ServicioMiguel\ServicioMiguel\bin\Debug\ServicioMiguel.exe
+C:\Users\Nuno\Desktop\MiServicio\ServicioMiguel\ServicioMiguel\bin\Debug\ServicioMiguel.pdb
+C:\Users\Nuno\Desktop\MiServicio\ServicioMiguel\ServicioMiguel\obj\Debug\ServicioMiguel.csproj.AssemblyReference.cache
+C:\Users\Nuno\Desktop\MiServicio\ServicioMiguel\ServicioMiguel\obj\Debug\ServicioMiguel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nuno\Desktop\MiServicio\ServicioMiguel\ServicioMiguel\obj\Debug\ServicioMiguel.ServicioMiguel.resources
+C:\Users\Nuno\Desktop\MiServicio\ServicioMiguel\ServicioMiguel\obj\Debug\ServicioMiguel.csproj.GenerateResource.cache
+C:\Users\Nuno\Desktop\MiServicio\ServicioMiguel\ServicioMiguel\obj\Debug\ServicioMiguel.csproj.CoreCompileInputs.cache
+C:\Users\Nuno\Desktop\MiServicio\ServicioMiguel\ServicioMiguel\obj\Debug\ServicioMiguel.exe
+C:\Users\Nuno\Desktop\MiServicio\ServicioMiguel\ServicioMiguel\obj\Debug\ServicioMiguel.pdb
+C:\Users\Nuno\Desktop\MiServicio\ServicioMiguel\ServicioMiguel\obj\Debug\ServicioMiguel.ProjectInstaller.resources
